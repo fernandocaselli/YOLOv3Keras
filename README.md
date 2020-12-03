@@ -17,7 +17,7 @@ Descargar los pesos de la red YOLOv3:
 ### Prerequisites
 Download YOLOv3 weights:
 * wget https://pjreddie.com/media/files/yolov3.weights
-
-
+<br/>
+<br/>
 ### Click en la imagen para ver el video
 [![Watch the video](https://img.youtube.com/vi/UrKHFy_xrDA/maxresdefault.jpg)](https://youtu.be/UrKHFy_xrDA)
