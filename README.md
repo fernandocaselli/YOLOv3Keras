@@ -11,3 +11,4 @@ Doubts or questions? send me a message at https://www.linkedin.com/in/fernando-c
 
 
 <iframe width="560" height="315" src="https://youtu.be/UrKHFy_xrDA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[<img src="https://img.youtube.com/vi/UrKHFy_xrDA/maxresdefault.jpg" width="50%">](https://youtu.be/UrKHFy_xrDA)
