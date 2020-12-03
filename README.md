@@ -10,4 +10,5 @@ Dudas o preguntas? enviame un mensaje a https://www.linkedin.com/in/fernando-cas
 Doubts or questions? send me a message at https://www.linkedin.com/in/fernando-caselli-6994a0114/
 
 
-[<img src="https://img.youtube.com/vi/UrKHFy_xrDA/maxresdefault.gif" width="100%">](https://youtu.be/UrKHFy_xrDA)
+[<img src="https://img.youtube.com/vi/UrKHFy_xrDA/maxresdefault.jpg" width="100%">](https://youtu.be/UrKHFy_xrDA)
+[![Watch the video](https://img.youtube.com/vi/UrKHFy_xrDA/maxresdefault.jpg)](https://youtu.be/UrKHFy_xrDA)
