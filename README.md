@@ -8,9 +8,9 @@ This example uses Tensorflow2 and Keras creating the layers and using the weight
 Dudas o preguntas? enviame un mensaje a https://www.linkedin.com/in/fernando-caselli-6994a0114/
 
 Doubts or questions? send me a message at https://www.linkedin.com/in/fernando-caselli-6994a0114/
-
-
-### Requisitos
+\
+\
+### Prerrequisitos
 Descargar los pesos de la red YOLOv3:
 * wget https://pjreddie.com/media/files/yolov3.weights
 
