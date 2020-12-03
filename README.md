@@ -13,11 +13,11 @@ Doubts or questions? send me a message at https://www.linkedin.com/in/fernando-c
 
 ### Prerrequisitos
 Descargar los pesos de la red YOLOv3:
-* wget https://pjreddie.com/media/files/yolov3.weights
+* $ wget https://pjreddie.com/media/files/yolov3.weights
 
 ### Prerequisites
 Download YOLOv3 weights:
-* wget https://pjreddie.com/media/files/yolov3.weights
+* $ wget https://pjreddie.com/media/files/yolov3.weights
 <br/>
 <br/>
 
